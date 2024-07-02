@@ -1,1 +1,3 @@
-# Data-Analysis-Retail-Data-Transactions-
+INTERNSHIP STUDIO
+Data Analysis project 
+Data clearing and analysing by using varioud python libraries 
